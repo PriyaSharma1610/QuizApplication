@@ -1,4 +1,5 @@
-# QuizApplication It is a quiz application based on the Indian Premier League created using JFrame, java swing and the java programming language
+# QuizApplication 
+It is a quiz application based on the Indian Premier League created using JFrame, java swing and the java programming language
 
 ABOUT THE PROJECT 
 
